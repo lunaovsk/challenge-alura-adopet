@@ -1,11 +1,11 @@
-# 🐾 Adopet API - Challenge Alura
+# Adopet API - Challenge Alura
 
 A **Adopet API** é uma aplicação desenvolvida em **Java 17** com **Spring Boot 3**, criada com o objetivo de facilitar e otimizar o processo de adoção de animais.  
 O projeto faz parte do **Challenge Alura - Backend Java**, conectando ONGs e adotantes de forma eficiente, segura e escalável.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java 17**
 - **Spring Boot 3.4.2**
@@ -19,7 +19,7 @@ O projeto faz parte do **Challenge Alura - Backend Java**, conectando ONGs e ado
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Cadastro e gerenciamento de **pets** (Não concluído)
 - Cadastro e gerenciamento de **adotantes**
@@ -29,13 +29,13 @@ O projeto faz parte do **Challenge Alura - Backend Java**, conectando ONGs e ado
 
 ---
 
-## 🔐 Autenticação
+## Autenticação
 
 O sistema utiliza **Spring Security com JWT**, garantindo segurança nas operações e controle de acesso aos endpoints.
 
 ---
 
-## 📂 Organização do Projeto
+## Organização do Projeto
 
 - `controller`: Camada responsável por receber as requisições HTTP.
 - `service`: Lógica de negócio e manipulação dos dados.
